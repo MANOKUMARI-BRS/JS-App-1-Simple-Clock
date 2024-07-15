@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /** 
 Author: Build Rise Shine with Nyros (BRS) 
 Created: 2023 
@@ -6,6 +7,8 @@ Description: JS clock
 (c) Copyright by BRS with Nyros. 
 **/
 
+=======
+>>>>>>> 9af28bf711c3acd0315a9ce43def8da15ab65917
 /* Get DOM Elements */
 const secondHand = document.querySelector(".secondHand");
 const hourHand = document.querySelector(".hourHand");
