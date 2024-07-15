@@ -1,11 +1,3 @@
-/** 
-Author: Build Rise Shine with Nyros (BRS) 
-Created: 2023 
-Library / Component: Script file
-Description: JS clock
-(c) Copyright by BRS with Nyros. 
-**/
-
 /* Get DOM Elements */
 const secondHand = document.querySelector(".secondHand");
 const hourHand = document.querySelector(".hourHand");
