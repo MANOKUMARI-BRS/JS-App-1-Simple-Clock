@@ -1,13 +1,3 @@
-
-/*
-Author:    Build Rise Shine with Nyros (BRS)
-Created:   11.05.2022
-Library / Component: Styling page for the app
-(c) Copyright by BRS with Nyros.
-*/
-
-
-
 :root {
     --primary-color: #1A4B84;
     --chathams_blue: #1A4B84;
@@ -80,6 +70,13 @@ select:focus,
 input:focus,
 button:focus {
     outline: 0;
+}
+#datetime {
+    display: block;
+    font-size: 24px;
+    margin-bottom: 10%;
+    text-align: center;
+    color: var(--primary-color);
 }
 
 @media (max-width: 600px) {
